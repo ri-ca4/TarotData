@@ -125,5 +125,6 @@ Your job is to search for interpretations of the [insert card name here] card on
 6. Meanings for the following types of readings: General, Career, Love, Feelings (internal experiences), and Actions (external circumstances/advice)
 7. Repeat 1-6 for reversed interpretations.
 8. Give the visual descriptive elements for the Rider Waite deck.
+
 Organize this information into clear headings (ie. “Keywords (Upright)”, “Meanings (Reversed): General:... Career:... …”, etc.) for quick reference and clarity.
 
