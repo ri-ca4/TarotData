@@ -48,7 +48,6 @@
                 actions: '',
         },
             img: '',
-            imgDescription: '',        
         },
     },
 `
@@ -98,7 +97,6 @@
                 actions: '',
         },
             img: '',
-            imgDescription: '',
         },
     }
 `
