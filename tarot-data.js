@@ -22,7 +22,7 @@ const tarotDeck = [
             actions: 'This might be a time to embrace that spontaneity and trust your instincts. It could also be a time for travel.',
         },
         img: '',
-        imgDescription: 'The bright sun shines down on the Fool, dressed in vibrant clothes stands on the edge of a cliff. His gaze is upwards, seemingly oblivious to the drop ahead. He carries his possessions on a stick and holds a single white rose. His companion, a small dog, nips at his heels.',
+        imgDescription: 'The bright sun shines down on the Fool who dressed in vibrant clothes and stands on the edge of a cliff. His gaze is upwards, seemingly oblivious to the drop ahead. He carries his possessions on a stick and holds a single white rose. His companion, a small dog, nips at his heels.',
         reverse: {
             keywords: ['Recklessness', 'carelessness', 'Negligence', 'Naivete', 'Distraction', "Foolishness", 'Poor Judgement', 'Stagnation', 'Apathy', 'Wasted Potential', 'Irationality', 'Hesitation'],
             associations: {
