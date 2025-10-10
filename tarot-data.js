@@ -82,7 +82,47 @@ const tarotDeck = [
             img: '',
         },
     },
-
+//The High Priestess
+{
+        index: 2,
+        id: 'priestess',
+        arcana: 'major',
+        number: 2,
+        cardName: '2 The High Priestess',
+        keywords: ['Intuition and Inner Voice', 'Sacred Knowledge and Wisdom', "Subconscious Mind", 'Mystery and Secrets', 'Duality', 'Divine Feminine', 'Patience and Passivity', 'Unrevealed Potential', 'Inner Illumination', 'Stillness and Calm'],
+        associations: {
+            yesNo: 3,
+            astrology: 'The Moon',
+            element: 'Water',
+            numerology: [2],
+        },
+        meanings: {
+            general: 'Trust your instincts and listen to your inner voice. During this period of quiet contemplation, look beneath the surface and access higher wisdom.',
+            career:  'This might be a time to work alone, to listen to your intuition about your business situation, or to seek advice from an intuitive mentor. Hold back your plans for the moment and seek clarity.',
+            love:    'You might be feeling a deep spiritual or soul-level connection or there could be hidden or unexpressed feelings between you and your partner. You may be waiting for a declairation or perhaps there is a secret waiting to be revealed.',
+            feelings:'You could be feeling confident in your inner knowledge and that calm sense of inner knowing. Perhaps you feel especially receptive to the hidden truths.',
+            actions: 'Follow your intuition; listen to your dreams; meditate. Seek out a quiet space for reflection and trust your gut feelings.',
+        },
+        img: '',
+        imgDescription: 'The Priestess sits between a black pillar and a white pillar wearing a simple blue robe and crown. A crescent moon rests at her feet and in her lap is a partially covered scroll. Behind her a veil is decorated with pomegranets and palm trees.',        
+        reverse: {
+            keywords: ['Disconnected from Intuition', 'Secrets (Exposed or Kept)', 'Lack of Inner Guidance', 'Over-thinking or Rationalizing', 'Gossip or Hidden Agendas', 'Ignoring Inner Voice', 'Superficial Knowledge', 'Emotional Upheaval', 'Blocked Creative Flow', 'Feeling Powerless'],
+            associations: {
+                yesNo: 1,
+                astrology: 'The Moon',
+                element: 'Water',
+                numerology: [2],
+            },
+            meanings: {
+                general: 'Are you ignoring your intuition or finding yourself influenced by external opinions? Perhaps you are in information overload or secrets are being revealed, or maybe you are just feeling detached.',
+                career:  'You might not be working with the full picture right now and the incomplete information can lead to poor communication. It\'s also possible you ar ebeing influenced in your decision or you\'re failing to trust your gut in a professional decision.',
+                love:    'Hidden secrets may come to light, or there may be difficulty in expressing one\'s true feelings. Is it hard to connect emotionally right now?',
+                feelings:'Confusion, insecurity, and anxiety may stem from a lack of clarity. Emotions may feel overwhelming right now leading to feeling ungrounded',
+                actions: 'Take a step back from the drama and confront any hidden agendas directly. This is a reminder to feel your feelings and to seek clarity or outside help to access your truest self.',
+        },
+            img: '',
+        },
+    },
 
 ];
 

@@ -21,7 +21,7 @@
             yesNo: 0,
             astrology: '',
             element: '',
-            numerology: '',
+            numerology: [],
         },
         meanings: {
             general: '',
@@ -38,7 +38,7 @@
                 yesNo: 0,
                 astrology: '',
                 element: '',
-                numerology: '',
+                numerology: [],
             },
             meanings: {
                 general: '',
