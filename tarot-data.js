@@ -123,6 +123,47 @@ const tarotDeck = [
             img: '',
         },
     },
+//The Empress
+{
+        index: 3,
+        id: 'empress',
+        arcana: 'major',
+        number: 3,
+        cardName: '3 The Empress',
+        keywords: ['Abundance', 'Fertility', 'Nurturing', 'Creativity', 'Sensuality', 'Beauty', 'Motherhood', 'Manifestation', 'Growth', 'Pleasure', 'Nature', 'Harmony'],
+        associations: {
+            yesNo: 0,
+            astrology: 'Venus',
+            element: 'Earth',
+            numerology: [3],
+        },
+        meanings: {
+            general: 'Abundance! There may be a strong connection to nature or a desire to embrace your nurturing side. This is a time for creativity and growth.',
+            career:  'This is a time of suceess and the birth of new projects. Creativity and nurturing energy abounds between team members during this time of growth and expansion.',
+            love:    'Strong emotional bonds lead to passionate, loving and stable relationships. There is high potential for commitment, marriage, or the start of a family.',
+            feelings:'You\'re feeling your full sensual, abundant nature and embracing self love and inner beauty. Are you ready to nurture and give?',
+            actions: 'It\'s time for self-care, pleasure, generosity, and love. Nurture your ideas as if they were a garden, and while you\'re at it maybe spend time in an actual garden or go for a nature walk!',
+        },
+        img: '',
+        imgDescription: 'The Empress rests on a large, cushioned throne, her robe covered in pomegranates. A wreath with twelve stars adorns her head and she bears a scepter. A heart-shaped shield rests by her side and a flowing river and field of wheat are visible in the background.',        
+        reverse: {
+            keywords: ['Creative Block', 'Dependence', 'Smothering', 'Insecurity', 'Lack of Growth', 'Procrastination', 'Negligence', 'Imbalance', 'Over-Indulgence', 'Lack of Progress'],
+            associations: {
+                yesNo: 3,
+                astrology: 'Venus',
+                element: 'Earth',
+                numerology: [3],
+            },
+            meanings: {
+                general: 'There\'s blocked energy here and it could be leading to feeling unattractive or insecure. Needs might be neglected or you might be over-relying on others, and either way this leads to disharmony.',
+                career:  'You could be experiencing a frustrating failure to launch. There may be delays, feelings of being stifled or uninspired, or you may feel smothered by your work environment or someone in it.',
+                love:    'Relationships may feel unbalanced, needs may be neglected, or one partner may be smothering the other. It\'s also possible that there is unrequited love or issues surrounding fertility.',
+                feelings:'Are you feeling blocked or overly self-critical? You might find you are having a hard time accepting your feminine power.',
+                actions: 'It\'s time to take care of yourself. Remove distractions to get the energy flowing again and avoid being overly controlling or dependant.',
+        },
+            img: '',
+        },
+    },
 
 ];
 
